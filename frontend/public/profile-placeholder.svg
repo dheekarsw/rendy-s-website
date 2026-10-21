@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 680" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="48" y1="22" x2="575" y2="658" gradientUnits="userSpaceOnUse"><stop stop-color="#e5eee7"/><stop offset="1" stop-color="#c9ded2"/></linearGradient>
+    <linearGradient id="shirt" x1="180" y1="420" x2="480" y2="670" gradientUnits="userSpaceOnUse"><stop stop-color="#183f38"/><stop offset="1" stop-color="#285c50"/></linearGradient>
+  </defs>
+  <rect width="620" height="680" rx="34" fill="url(#bg)"/>
+  <circle cx="478" cy="115" r="65" fill="#d2f56a" fill-opacity=".8"/>
+  <circle cx="100" cy="530" r="86" fill="#fff" fill-opacity=".32"/>
+  <path d="M112 680c15-122 83-203 198-203 113 0 183 81 198 203H112Z" fill="url(#shirt)"/>
+  <path d="M230 468c15 35 43 57 80 57 37 0 66-22 80-57l-22-35h-116l-22 35Z" fill="#c88966"/>
+  <ellipse cx="310" cy="300" rx="128" ry="151" fill="#d8a07e"/>
+  <path d="M182 292c-21-111 31-194 133-194 98 0 148 65 129 187l-27-55c-55-5-111-27-152-68-12 36-38 62-73 74l-10 56Z" fill="#24312c"/>
+  <path d="M183 280c-19 2-26 19-17 44 8 22 21 32 36 27l-19-71Zm254 0c19 2 26 19 17 44-8 22-21 32-36 27l19-71Z" fill="#d8a07e"/>
+  <path d="M264 316c10-7 21-7 31 0M325 316c10-7 21-7 31 0" stroke="#4d3429" stroke-width="7" stroke-linecap="round"/>
+  <path d="M294 372c12 11 26 11 38 0" stroke="#8c4e41" stroke-width="6" stroke-linecap="round"/>
+  <path d="M219 260c23-14 42-19 61-16M331 244c20-5 39 0 61 16" stroke="#24312c" stroke-width="12" stroke-linecap="round"/>
+  <path d="M230 483l80 72 80-72" fill="#f4f1e7" fill-opacity=".85"/>
+  <path d="M253 487l57 57 57-57" fill="#d2f56a"/>
+  <text x="310" y="625" fill="#fff" fill-opacity=".83" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" letter-spacing="4">YOUR PHOTO HERE</text>
+</svg>
